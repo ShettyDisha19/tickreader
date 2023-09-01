@@ -1,0 +1,28 @@
+BEFORE RECEIVE ClientSOcket: 3
+
+== Symbol: AAPLS, Buy/Sell: S, Quantity: 20, Price: 101, Packet Sequence received: 3 expectedseqno 1
+
+== Symbol: AAPLS, Buy/Sell: S, Quantity: 10, Price: 102, Packet Sequence received: 4 expectedseqno 4
+
+== Symbol: METAS, Buy/Sell: S, Quantity: 20, Price: 57, Packet Sequence received: 7 expectedseqno 5
+
+== Symbol: MSFTB, Buy/Sell: B, Quantity: 25, Price: 150, Packet Sequence received: 8 expectedseqno 8
+
+== Symbol: MSFTS, Buy/Sell: S, Quantity: 15, Price: 155, Packet Sequence received: 9 expectedseqno 9
+
+== Symbol: MSFTB, Buy/Sell: B, Quantity: 20, Price: 148, Packet Sequence received: 10 expectedseqno 10
+
+== Symbol: AMZNB, Buy/Sell: B, Quantity: 10, Price: 3000, Packet Sequence received: 11 expectedseqno 11
+
+== Symbol: AMZNB, Buy/Sell: B, Quantity: 5, Price: 2999, Packet Sequence received: 12 expectedseqno 12
+
+== Symbol: AMZNS, Buy/Sell: S, Quantity: 10, Price: 3015, Packet Sequence received: 14 expectedseqno 13
+
+Connected to the server again at socket 5
+
+As We have missing packets , missing count is 5
+Requesting a resend for packet with sequence number 1
+Requesting a resend for packet with sequence number 2
+Requesting a resend for packet with sequence number 5
+Requesting a resend for packet with sequence number 6
+Requesting a resend for packet with sequence number 13
